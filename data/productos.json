@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "nombre": "Llavero Naruto Uzumaki",
+        "precio": 18000,
+        "stock": 12,
+        "estado": "disponible",
+        "descripcion": "Llavero metalico de Naruto.",
+        "material": "Metal y esmalte",
+        "imagen_url": "",
+        "categoria_id": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Figura Goku Super Saiyan",
+        "precio": 85000,
+        "stock": 3,
+        "estado": "disponible",
+        "descripcion": "Figura articulada Goku SSJ 18cm.",
+        "material": "PVC",
+        "imagen_url": "",
+        "categoria_id": 4
+    },
+    {
+        "id": 3,
+        "nombre": "Llavero Stranger Things",
+        "precio": 22000,
+        "stock": 1,
+        "estado": "disponible",
+        "descripcion": "Llavero logo Stranger Things.",
+        "material": "Acrilico",
+        "imagen_url": "https:\/\/www.instagram.com\/p\/DTDaRVRjXDG\/?img_index=2",
+        "categoria_id": 2
+    },
+    {
+        "id": 4,
+        "nombre": "Figura Nezuko Kamado",
+        "precio": 72000,
+        "stock": 5,
+        "estado": "disponible",
+        "descripcion": "Figura Nezuko Demon Slayer.",
+        "material": "PVC",
+        "imagen_url": "",
+        "categoria_id": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Llavero One Piece Luffy",
+        "precio": 16000,
+        "stock": 20,
+        "estado": "disponible",
+        "descripcion": "Llavero Luffy sombrero de paja.",
+        "material": "Goma y metal",
+        "imagen_url": "",
+        "categoria_id": 3
+    },
+    {
+        "id": 6,
+        "nombre": "Figura Tanjiro Kamado",
+        "precio": 78000,
+        "stock": 2,
+        "estado": "disponible",
+        "descripcion": "Figura Tanjiro con espada 1\/8.",
+        "material": "PVC",
+        "imagen_url": "",
+        "categoria_id": 4
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Animes",
+        "descripcion": "Figuras y llaveros de anime"
+    },
+    {
+        "id": 2,
+        "nombre": "Series",
+        "descripcion": "Articulos de series famosas"
+    },
+    {
+        "id": 3,
+        "nombre": "Llaveros",
+        "descripcion": "Llaveros coleccionables"
+    },
+    {
+        "id": 4,
+        "nombre": "Figuras",
+        "descripcion": "Figuras de coleccion"
+    }
+]

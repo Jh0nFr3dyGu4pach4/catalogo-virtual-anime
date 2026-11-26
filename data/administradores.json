@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "usuario": "admin",
+        "contrasena_hash": "$2y$12$OMU4PSOJt2aukBJjblRsP.3f6K4cYEPF0i7uuUaVMTYeZw44Iz.s2",
+        "nombre": "Administrador",
+        "email": "admin@catalogo.local",
+        "activo": true,
+        "creado_en": "2026-11-21T00:29:54+00:00"
+    }
+]

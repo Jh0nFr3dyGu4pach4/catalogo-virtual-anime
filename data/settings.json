@@ -1,0 +1,9 @@
+{
+    "nombre_tienda": "Catalogo Virtual Anime",
+    "whatsapp_vendedor": "3000000000",
+    "pasarela_activa": false,
+    "pasarela_proveedor": "wompi",
+    "pasarela_public_key": "",
+    "pasarela_private_key": "",
+    "moneda": "COP"
+}
