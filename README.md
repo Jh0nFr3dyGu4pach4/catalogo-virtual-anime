@@ -49,6 +49,6 @@ app_web/
 
 ## Videos
 - Video de sustentación: https://drive.google.com/file/d/1GThMjdj-0thDXYfTA9RRcBnpXq009POT/view?usp=drive_link
-
+- video del Prototipo: https://drive.google.com/file/d/1XqHjQTBfdIT_aVUR6J5AIKgtw18wbTgJ/view?usp=drive_link
 ## Documentos
 - Dossier de ingeniería: (si lo subes, indica la ruta, ej. docs/Dossier.docx)
